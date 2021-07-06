@@ -1,0 +1,87 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+.section1{
+    margin: 5%;
+}
+h1{
+    font-size: 65px;
+}
+.h1-color{
+    color: rgb(221, 74, 148);
+}
+pre{
+    text-align: justify;
+    font-family: 'Poppins', sans-serif;
+}
+.width-set{
+    width: 50%;
+} 
+.width-set img{
+    width: 85%;
+}
+.flex-set{
+    display: flex;
+}
+.order-button{
+    text-decoration: none;
+    background-color: hotpink;
+    border: 1x solid;
+    padding: 2%;
+    color: white;
+    border-radius: 25%;
+    height: 200px;
+    background-image: linear-gradient(hotpink yellow);
+    box-shadow: 10px 10px 23px gray;
+}
+#section2{
+    background-image: url(background2.jpg);
+    background-repeat: no-repeat;
+    margin: 0%;
+}
+.about-image{
+    margin-left: 15%;
+}
+.h12{
+    font-size: 45px;
+    color: rgb(121, 92, 92);
+}
+#se2-div2{
+    margin: 7%;
+}
+.width-set2{
+    width: 50%;
+} 
+.width-set2 img{
+    width: 60%;
+}
+.sec3-center{
+    text-align: center;
+}
+.div3{
+    margin: 2%;
+    width: 50%;
+
+}
+.sec44{
+    margin-top: 0%;
+    margin-bottom: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.div3 img{
+    width: 100%;
+    border-radius: 15%;
+}
+.sec4 {
+    border: 1px solid rgb(241, 234, 234);
+    padding: 3%;
+    border-radius: 10%;
+    border-width: 100%;
+    box-shadow: 1px 2px 23px rgb(160, 153, 139);
+}
+.sec4-p{
+    text-align: justify;
+    font-size: 13px;
+}
